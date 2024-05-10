@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel='stylesheet' href='style1.css' type='text/css' />
+<title>Tomato Pasta Recipe</title>
+</head>
+<body>
+
+<h1>Tomato Pasta Recipe</h1>
+
+<h2>Ingredients:</h2>
+<ul>
+  <li>1 tablespoon olive oil</li>
+  <li>1 small onion, chopped</li>
+  <li>1 clove garlic, minced</li>
+  <li>⅓ cup sundried tomatoes, chopped (optional – I love it but my kids refuse to eat it)</li>
+  <li>1 tablespoon tomato paste</li>
+  <li>2 teaspoons Italian seasoning</li>
+  <li>3 cups chicken stock or water</li>
+  <li>1 cup can diced tomatoes, undrained</li>
+  <li>1 cup rigatoni pasta (or whatever)</li>
+  <li>Salt & pepper to taste</li>
+  <li>½ cup grated Parmesan</li>
+  <li>¼ cup cream cheese OR ricotta, mascarpone… whatever you have on hand! Use more for extra creaminess.</li>
+  <li>Chopped flat leaf parsley (optional)</li>
+</ul>
+
+<h2>Instructions:</h2>
+<ol>
+  <li>In a large pot, heat olive oil over medium heat. Add chopped onion and minced garlic. Cook until onion is soft and translucent, about 5 minutes.</li>
+  <li>Add sundried tomatoes (if using), tomato paste, and Italian seasoning. Cook for another 2 minutes.</li>
+  <li>Pour in chicken stock or water and diced tomatoes. Bring to a simmer.</li>
+  <li>Add pasta to the pot and cook according to package instructions until al dente.</li>
+  <li>Season with salt and pepper to taste.</li>
+  <li>Stir in grated Parmesan and cream cheese (or other creamy cheese of your choice) until melted and well combined.</li>
+  <li>If desired, garnish with chopped flat-leaf parsley before serving.</li>
+</ol>
+
+</body>
+</html>
