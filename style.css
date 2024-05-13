@@ -26,8 +26,8 @@ li{
   font-family: verdana;
 }
 .image-container {
-  width: 200px; /* Adjust the width as needed */
-  height: 200px; /* Adjust the height as needed */
+  width: 200px; 
+  height: 200px; 
   display: flex;
   justify-content: center;
   align-items: center;
